@@ -1,0 +1,52 @@
+.conteiner_login {
+    max-width: 1440px;
+    margin: 0; }
+   
+.pag_login {
+    background-color: white;
+    text-align: center;
+    padding: 80px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.box_login {
+    display: inline-block;
+    background-color: white;
+    box-shadow: 3px 3px 5px 2px rgb(158, 151, 151);
+    padding: 60px 20px 50px 20px;
+    border-radius: 20px;
+    width: 400px;
+    
+}
+.pag_login.input_padrao {
+width: 50%;
+display: inline-block;
+
+}
+
+.btn_green {
+    color: white;
+    background-color: green;
+    margin: 20px 0 50px 0;
+    border: 0px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 30px;
+    min-width:85px ;
+    
+  
+}
+
+.pag_login .btn_green {
+    display: block;
+    float: none;
+    margin: auto;
+ padding-left: 20px;   
+}
+    .pag_login .login_txt {
+margin: 5px;
+
+    }
